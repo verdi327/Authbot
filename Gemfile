@@ -7,6 +7,9 @@ gem 'rake'
 gem 'activerecord'
 gem 'sinatra-activerecord'
 gem 'sqlite3'
+gem 'thin'
+gem 'unicorn'
+gem 'capistrano'
 
 #group :test do
   gem 'capybara'
